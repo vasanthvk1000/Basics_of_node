@@ -18,7 +18,7 @@ let totalMem =os.totalmem();
 console.log(`Total memory: ${totalMem}`);
 
 let freeMem =os.freemem();
-console.log(`Free memory: ${freeMem}`);
+console.log(`Fre memory: ${freeMem}`);
 
 
 
